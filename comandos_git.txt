@@ -1,11 +1,12 @@
 COMANDOS BASICOS
 
 git init
-git config --global user.name ´´emanueltriana677´´
+git config --global user.name "emanueltriana677"
 git config --global user.email emanueltriana677@gmail.com
 git config user.name
 git config user.email
 clear
 git status
 git add .
-git commit -m ´´Listo para subir´´
+git commit -m "Listo para subir"
+git commit -m "segundo intento"
